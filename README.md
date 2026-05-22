@@ -25,10 +25,3 @@ Library and archival professional with a Computer Science background, currently 
 | Data | JSON, CSV |
 | Version Control | Git & GitHub |
 
-------------------------------------
-Library Systems     ArchivesSpace, Alma, Aeon
-
-| Column Header 1 | Column Header 2 | Column Header 3 |
-| :--- | :---: | ---: |
-| Left-aligned text | Center-aligned text | Right-aligned text |
-| Row 2 Data | Row 2 Data | Row 2 Data |
