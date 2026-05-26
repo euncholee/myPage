@@ -25,3 +25,14 @@ Library and archival professional with a Computer Science background, currently 
 | Data | JSON, CSV |
 | Version Control | Git & GitHub |
 
+# Current Learning Goals
+- ArchivesSpace API
+- Alma API
+- Metadata automation
+- EAD/XML processing
+- Digital collections infrastructure
+
+# Projects
+- Metadata cleanup scripts
+- EAD/XML prasing practice
+- Library workflow automation tools
